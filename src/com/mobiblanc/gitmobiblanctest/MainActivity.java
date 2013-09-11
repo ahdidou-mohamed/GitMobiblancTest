@@ -5,6 +5,11 @@ import android.app.Activity;
 import android.util.Log;
 import android.view.Menu;
 
+/**
+ * 
+ * @author ahdidou
+ *
+ */
 public class MainActivity extends Activity {
 
 	private static final String TAG = "MainActivity";
