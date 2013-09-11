@@ -15,6 +15,8 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		
 		Log.d(TAG, "First commit in master....Never commit to master directly");
+		
+		Log.d(TAG, "Commit from DEV Branch");
 	}
 
 	@Override
