@@ -17,6 +17,8 @@ public class MainActivity extends Activity {
 		Log.d(TAG, "First commit in master....Never commit to master directly");
 		
 		Log.d(TAG, "Commit from DEV Branch");
+		
+		Log.d(TAG, "Developing Module 1");
 	}
 
 	@Override
